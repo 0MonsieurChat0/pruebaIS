@@ -1,0 +1,7 @@
+Camisa
+Pantalon
+boxers
+medias
+zapatos
+vestido
+bolso
