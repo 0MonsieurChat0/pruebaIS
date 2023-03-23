@@ -2,9 +2,11 @@ Banana
 fresa como faiber
 melon como el melocotón
 dulce como yo
+<<<<<<< HEAD
 papaya
 manzana
 pera
 No sé que más poner XD
 miau
 aaaaaa
+deivid es un azarozo
