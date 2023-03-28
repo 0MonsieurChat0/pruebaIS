@@ -2,6 +2,7 @@ Banana
 fresa como faiber
 melon como el melocotón
 dulce como yo
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 papaya
 manzana
@@ -9,4 +10,6 @@ pera
 No sé que más poner XD
 miau
 aaaaaa
+=======
+>>>>>>> Stashed changes
 deivid es un azarozo
