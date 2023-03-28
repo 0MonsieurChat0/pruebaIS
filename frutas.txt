@@ -2,5 +2,19 @@ Banana
 fresa como faiber
 melon como el melocotón
 dulce como yo
+<<<<<<< HEAD
 speed
 speed .2
+=======
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+papaya
+manzana
+pera
+No sé que más poner XD
+miau
+aaaaaa
+=======
+>>>>>>> Stashed changes
+deivid es un azarozo
+>>>>>>> c13e8763037512dcd0df89109653d83cdf845026
